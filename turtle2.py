@@ -1,5 +1,4 @@
 from turtle import *
-shape('turtle')
 for n in range(3,7):
     if n % 2 == 0:
         color('red')

@@ -1,5 +1,4 @@
 from turtle import *
-shape('turtle')
 color("red")
 
 for i in range(4):
